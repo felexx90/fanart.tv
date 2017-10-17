@@ -1,7 +1,7 @@
 {
-    "name": "fanart.tv",
+    "name": "react-native-fanart.tv",
     "version": "2.0.0",
-    "description": "Fanart.tv API wrapper for NodeJS",
+    "description": "Fanart.tv API wrapper for React Native",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/vankasteelj/fanart.tv.git"
@@ -14,6 +14,6 @@
         "api"
     ],
     "dependencies": {
-        "got": "6.x.x"
+        "axios": "^0.16.2"
     }
 }
